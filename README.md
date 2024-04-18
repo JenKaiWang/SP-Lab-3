@@ -17,3 +17,5 @@ Geometric mean : Suitable for positive number sets, it calculates the Nth root o
 Harmonic Mean : Particularly applicable for averaging rates, such as speed and density.
 
 Unused array capacity : Indicates the amount of space in the dynamic array that is not being used.
+
+I already test the .txt file when the values inside are empty or have some english words, the program output will all be zero.
