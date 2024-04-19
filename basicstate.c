@@ -135,7 +135,7 @@ float nth_root(float a, int N) {
     return x;
 }
 
-
+//function can be used to approximately calculate the natural logarithm of a given number x, ln(x)
 float my_ln(float x) {
     if (x <= 0) {
         return -1; 
@@ -161,6 +161,7 @@ float my_ln(float x) {
     return result;
 }
 
+//function is used to calculate an approximation of the exponential function for a given number x
 float my_exp(float x) {
     int i;
     float result = 1;
